@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Master's Degree Student
 ----------------------------------------
 
-Master's degree student at National Tsing Hua University, specializing in Natural Language Processing (NLP) and Artificial Intelligence (AI).
+<p>
+    Master's degree student at <a href="https://dcs.site.nthu.edu.tw/">NTHU CS</a> <a href="https://www.nlplab.cc/#about">NLP Lab</a>.<br>
+    Specializing in Natural Language Processing (NLP) and Artificial Intelligence (AI).
+</p>
 
 * 🌍  I'm based in Taipei / Hsinchu, Taiwan, R.O.C.
 * ✉️  You can contact me at [rogerchang1108@gmail.com](mailto:rogerchang1108@gmail.com)
