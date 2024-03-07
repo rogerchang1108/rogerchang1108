@@ -5,7 +5,7 @@ Computer Science Master's Degree Student
 ----------------------------------------
 
 <p>
-    Master's degree student at <a href="https://dcs.site.nthu.edu.tw/">NTHU CS</a> <a href="https://www.nlplab.cc/#about">NLP Lab</a>.<br>
+    M.S. student at <a href="https://dcs.site.nthu.edu.tw/">NTHU CS</a> <a href="https://www.nlplab.cc/#about">NLP Lab</a>.<br>
     Specializing in Natural Language Processing (NLP) and Artificial Intelligence (AI).
 </p>
 
