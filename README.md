@@ -64,8 +64,8 @@ Computer Science Master's Degree Student
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rogerchang1108"><img src="https://github-readme-stats.vercel.app/api?username=rogerchang1108&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rogerchang1108's GitHub stats" /></a>
-
-<a href="http://www.github.com/rogerchang1108"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rogerchang1108&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rogerchang1108&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogerchang1108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
 <a href="https://github.com/rogerchang1108" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerchang1108&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
