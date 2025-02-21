@@ -64,13 +64,7 @@ Computer Science Master's Degree Student
 
 <b>My GitHub Stats</b>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogerchang1108&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogerchang1108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rogerchang1108&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogerchang1108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="175" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rogerchang1108/rogerchang1108/output/snake.svg" alt="Snake animation" />
-
-###
